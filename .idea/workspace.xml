@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b748175-264a-4d8b-b7a1-1e21143ea035" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/BoardTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>row and colu</find>
+      <find>invalidm</find>
+      <find>invalid</find>
+      <find>check</find>
+      <find>checkboundaries</find>
+      <find>size</find>
+      <find>7</find>
+      <find>catch</find>
+      <find>except</find>
+      <find>.next();</find>
+      <find>valid</find>
+      <find>large</find>
+      <find>over</find>
+      <find>Score</find>
+      <find>null</find>
+      <find>readable</find>
+      <find>q</find>
+      <find>Q</find>
+      <find>get</find>
+      <find>getBoardState</find>
+      <find>getboardstate</find>
+      <find>score</find>
+      <find>move</find>
+      <find>goodpo</find>
+      <find>generate</find>
+      <find>;;</find>
+      <find>diagonal</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/cs3500/marblesolitaire/model/hw02/MarblesTest.java" />
+        <option value="$PROJECT_DIR$/test/Hw02TypeChecks.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/IBoard.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/Marbles.java" />
+        <option value="$PROJECT_DIR$/test/MarblesTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/MarbleSolitaireController.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/hw02/MarbleSolitaireController.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/marblesolitaire/controller/hw02/MarbleSolitaireControllerImplTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/hw02/Go.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/hw02/MarbleSolitaireControllerImpl.java" />
+        <option value="$PROJECT_DIR$/test/Hw03TypeChecks.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/Go.java" />
+        <option value="$PROJECT_DIR$/test/MarbleSolitaireControllerImplTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImplTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/TriangleMarbleSolitaireImplTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/EuropeanSolitaireModelImplTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/MarbleSolitaireModelImpl.java" />
+        <option value="$PROJECT_DIR$/test/BoardTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/TriangleMarbleSolitaireImpl.java" />
+        <option value="$PROJECT_DIR$/test/testTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/MarbleSolitaireModelAbstract.java" />
+        <option value="$PROJECT_DIR$/test/MarbleSolitaireModelImplTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/MarbleSolitaireControllerImpl.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuroBoard.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/TriangleSolitaireModelImpl.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/MarbleSolitaireController.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImpl.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/TriangleBoard.java" />
+        <option value="$PROJECT_DIR$/test/TriangleMarbleSolitaireImplTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/MarbleSolitaire.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/MarbleSolitaire.java" />
+        <option value="$PROJECT_DIR$/test/EuropeanSolitaireModelImplTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/Board.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="23" />
+    <option name="width" value="1367" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MarbleSolitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarbleSolitair" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarbleSolitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarbleSolitair" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarbleSolitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarbleSolitair" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MarbleSolitair" type="58d84e3e:PackageViewProjectNode" />
+              <item name="code" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="MarbleSolitair" type="58d84e3e:PackageViewProjectNode" />
+              <item name="code" type="616d4139:PackageViewModuleNode" />
+              <item name="cs3500.marblesolitaire.model.hw02" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550870381768" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/cs3500/marblesolitaire" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="cs3500" />
+      <recent name="cs3500.marblesolitaire.model.hw04" />
+      <recent name="cs3500.marblesolitaire.controller.hw02" />
+      <recent name="cs3500.marblesolitaire.model.hw02" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TriangleMarbleSolitaireImplTest">
+    <configuration name="Default european chosen hole" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="european -hole 1 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Default triangular chosen hole" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="triangular -hole 2 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="English default" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="english" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="English size 3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="english -size 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="English size 5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="english -size 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="European default" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="european" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle default" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="triangular" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle size 7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="code" />
+      <option name="PROGRAM_PARAMETERS" value="triangular -size 7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuropeanSolitaireModelImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EuropeanSolitaireModelImplTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuropeanSolitaireModelImplTest.testCenterOff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EuropeanSolitaireModelImplTest" />
+      <option name="METHOD_NAME" value="testCenterOff" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleMarbleSolitaireImplTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleMarbleSolitaireImplTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleMarbleSolitaireImplTest.test123" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleMarbleSolitaireImplTest" />
+      <option name="METHOD_NAME" value="test123" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleMarbleSolitaireImplTest.testIsGameOverFalseDefault" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleMarbleSolitaireImplTest" />
+      <option name="METHOD_NAME" value="testIsGameOverFalseDefault" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleMarbleSolitaireImplTest.testIsGameOverTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleMarbleSolitaireImplTest" />
+      <option name="METHOD_NAME" value="testIsGameOverTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.English size 3" />
+      <item itemvalue="Application.English default" />
+      <item itemvalue="Application.English size 5" />
+      <item itemvalue="Application.Triangle default" />
+      <item itemvalue="Application.Triangle size 7" />
+      <item itemvalue="Application.European default" />
+      <item itemvalue="Application.Default triangular chosen hole" />
+      <item itemvalue="Application.Default european chosen hole" />
+      <item itemvalue="JUnit.TriangleMarbleSolitaireImplTest" />
+      <item itemvalue="JUnit.TriangleMarbleSolitaireImplTest.test123" />
+      <item itemvalue="JUnit.TriangleMarbleSolitaireImplTest.testIsGameOverFalseDefault" />
+      <item itemvalue="JUnit.TriangleMarbleSolitaireImplTest.testIsGameOverTrue" />
+      <item itemvalue="JUnit.EuropeanSolitaireModelImplTest.testCenterOff" />
+      <item itemvalue="JUnit.EuropeanSolitaireModelImplTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EuropeanSolitaireModelImplTest" />
+        <item itemvalue="JUnit.EuropeanSolitaireModelImplTest.testCenterOff" />
+        <item itemvalue="JUnit.TriangleMarbleSolitaireImplTest.testIsGameOverFalseDefault" />
+        <item itemvalue="JUnit.TriangleMarbleSolitaireImplTest.testIsGameOverTrue" />
+        <item itemvalue="JUnit.TriangleMarbleSolitaireImplTest.test123" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b748175-264a-4d8b-b7a1-1e21143ea035" name="Default Changelist" comment="" />
+      <created>1548185808038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548185808038</updated>
+      <workItem from="1548185809466" duration="19000" />
+      <workItem from="1548185926789" duration="299000" />
+      <workItem from="1548186290232" duration="3562000" />
+      <workItem from="1548190300356" duration="157000" />
+      <workItem from="1548190508930" duration="15020000" />
+      <workItem from="1548360650880" duration="3633000" />
+      <workItem from="1548364394174" duration="168000" />
+      <workItem from="1548364767525" duration="21000" />
+      <workItem from="1548364799576" duration="61000" />
+      <workItem from="1548364891575" duration="74833000" />
+      <workItem from="1549393641493" duration="65670000" />
+      <workItem from="1550366595991" duration="16954000" />
+      <workItem from="1551737183929" duration="204000" />
+      <workItem from="1553278909151" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TriangleMarbleSolitaireImplTest_testIsGameOverTrue - 2019.02.18 at 20h 48m 44s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest.testIsGameOverTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleMarbleSolitaireImplTest_testIsGameOverFalseDefault - 2019.02.18 at 20h 48m 48s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest.testIsGameOverFalseDefault" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleMarbleSolitaireImplTest - 2019.02.18 at 21h 00m 25s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleMarbleSolitaireImplTest - 2019.02.18 at 21h 01m 57s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleMarbleSolitaireImplTest - 2019.02.18 at 21h 04m 01s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleMarbleSolitaireImplTest - 2019.02.18 at 21h 09m 31s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleMarbleSolitaireImplTest - 2019.02.18 at 21h 37m 52s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EuropeanSolitaireModelImplTest_testCenterOff - 2019.02.19 at 18h 51m 18s.xml">
+      <configuration name="EuropeanSolitaireModelImplTest.testCenterOff" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EuropeanSolitaireModelImplTest - 2019.02.19 at 18h 51m 35s.xml">
+      <configuration name="EuropeanSolitaireModelImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleMarbleSolitaireImplTest - 2019.02.19 at 18h 51m 46s.xml">
+      <configuration name="TriangleMarbleSolitaireImplTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="181126000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="23" width="1367" height="823" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23245282" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32284543" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.37893298" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39808482" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3287858" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32949877" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.getBoardState()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.getBoardState()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/marblesolitaire/model/hw02/MarblesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/IBoard.java" />
+    <entry file="file://$PROJECT_DIR$/test/Hw02TypeChecks.java" />
+    <entry file="file://$PROJECT_DIR$/test/cs3500/marblesolitaire/controller/hw02/MarbleSolitaireControllerImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/Hw03TypeChecks.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="861" selection-start-line="861" selection-end-line="861" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/Go.java" />
+    <entry file="file://$PROJECT_DIR$/test/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/cs3500/TriangleMarbleSolitaireImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/cs3500/EuropeanSolitaireModelImplTest.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.java" />
+    <entry file="file://$PROJECT_DIR$/test/testTest.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/ExpectException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/MarbleSolitaireModelAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MarblesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TriangleMarbleSolitaireImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/EuropeanSolitaireModelImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2445">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MarbleSolitaireControllerImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MarbleSolitaireModelImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/TriangleBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="65" column="75" selection-start-line="65" selection-start-column="75" selection-end-line="65" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/Marbles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/MarbleSolitaireController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/MarbleSolitaireModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/MarbleSolitaireModelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuroBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/TriangleSolitaireModelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/MarbleSolitaireControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/MarbleSolitaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
